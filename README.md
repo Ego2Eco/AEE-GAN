@@ -4,8 +4,8 @@
 Presented at [ACMMM 2020](https://2020.acmmm.org/)
 
 ## Introduction
-To predict convincing trajectories in the heterogeneous environment remains challenging due to the complicated social interactions and physical constraints in a scene.<br />
-We tackle these problems by introducing two enforced attention modules to socially and visually attend the important information from ecology.
+To predict convincing trajectories in the heterogeneous environment remains challenging due to the complicated social interactions and physical constraints in a scene. We tackle these problems by introducing two enforced attention modules to socially and visually attend the important information from ecology.<br />
+Below is how our model performs in the heterogeneous environment. The ground truth is colored in blue while the predicted trajectory of our model is colored in green.
 
 ![image](https://github.com/Ego2Eco/AEE-GAN/blob/master/figs/15.gif)
 
