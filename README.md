@@ -5,14 +5,17 @@ Presented at [ACMMM 2020](https://2020.acmmm.org/)
 
 ## Introduction
 To predict convincing trajectories in the heterogeneous environment remains challenging due to the complicated social interactions and physical constraints in a scene.<br />
-In this paper, we tackle these problems by introducing two enforced attention modules to socially and visually attend the important information from ecology.
+We tackle these problems by introducing two enforced attention modules to socially and visually attend the important information from ecology.
+
+![image](https://github.com/Ego2Eco/AEE-GAN/blob/master/figs/15.gif)
 
 ## System Architecture
 This is an overview of our proposed AEE-GAN architecture which consists of three key module: 
 - Feature Encoder 
 - Enforced Attention 
-- LSTM-based Info-GAN.
+- LSTM-based Info-GAN <br />
 
+![image](https://github.com/Ego2Eco/AEE-GAN/blob/master/figs/AEE-GAN.png)
 
 ## Installation
 This work is developed and tested on Ubuntu 18.04 with Python 3.7.3 and Pytorch 1.2.0. We have also used CUDA and cuDNN to speed up our model.
