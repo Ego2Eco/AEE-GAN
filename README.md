@@ -29,9 +29,6 @@ This work is developed and tested on Ubuntu 18.04 with Python 3.7.3 and Pytorch 
 
         conda env create -f environment.yaml
 
-    Or you can just install required packages yourself with `requirement.txt` file. 
-
-        pip install -r reqirement.txt
 ## Train
 You need to edit the **input/output part** in the `train.py` file to select which dataset you want to use for training. After editing then you can start training.
 
