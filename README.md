@@ -73,7 +73,7 @@ We compare the performance of our model against the various baselines on two het
 
 ### Baslines on Homogeneous Datasets
 Datasets \ Models |S-LSTM|S-GAN-P|SoPhie|S-Ways|S-STGCNN|AEE-GAN (Ours)|
--|:-:|:-:|:-:|:-:|:-:|
+-|:-:|:-:|:-:|:-:|:-:|:-:|
 ETH|1.09 / 2.35|0.77 / 1.38|0.70 / 1.43|0.39 / 0.64|0.62 / 1.07|0.32 / 0.44|
 Hotel|0.79 / 1.76|0.44 / 0.89|0.76 / 1.67|0.39 / 0.66|0.41 / 0.51|0.19 / 0.23|
 Univ|0.67 / 1.40|0.75 / 1.50|0.54 / 1.24|0.55 / 1.31|0.62 / 1.07|0.37 / 0.56|
